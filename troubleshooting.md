@@ -112,9 +112,9 @@ This is the default blocklist included in the original installation of the Pi-ho
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 Here are the additional blocklists I added:
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt (For mobile devices)
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.mini.txt (For devices with less RAM)
-https://big.oisd.nl (Very large list that prioritizes functionality over blocking)
+- https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt (For mobile devices)
+- https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.mini.txt (For devices with less RAM)
+- https://big.oisd.nl (Very large list that prioritizes functionality over blocking)
 
 This not only increased the number of blocked domains significantly, but also blocked phishing, malvertising, malware, spyware, ransomeware, cryptojacking, and telemetry/analytics/tracking. 
 
