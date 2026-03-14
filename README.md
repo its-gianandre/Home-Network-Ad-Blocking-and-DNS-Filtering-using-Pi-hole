@@ -37,7 +37,7 @@ All devices send DNS queries to Pi-hole instead of external DNS providers.
 6. IP address returned to device
 
 Diagram of network architecture:
-
+![Pi-hole Network Architecture](Images/Network_architecture_diagram.png)
 
 ### Setup Instructions:
 For full installation instructions see:
