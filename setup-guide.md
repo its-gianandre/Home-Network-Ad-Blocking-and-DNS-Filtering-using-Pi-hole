@@ -50,6 +50,6 @@ Steps:
 Set the router DNS server to the Pi-hole IP address
 
 ## Step 6 - Access Dashboard
-http://<pihole-ip>/admin
+http://(pihole-ip)/admin
 or if you're on the raspberry pi itself, you can also use
 http://localhost/admin
