@@ -41,6 +41,7 @@ Diagram of network architecture:
 
 ### Setup Instructions:
 For full installation instructions see:
-setup-guide.md
+[Setup Guide](setup-guide.md)
+
 
 
